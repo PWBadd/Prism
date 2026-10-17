@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prism</string>
+    <string name="made_by">Сделано PWBad\'s</string>
+    <string name="credits_title">Авторство</string>
+    <string name="credits_author">Автор: %1$s</string>
+    <string name="credits_assistant">Помощник: %1$s</string>
+    <string name="credits_coder">Кодер: %1$s</string>
+    <string name="telegram_channel">Telegram-канал</string>
+    <string name="version">Версия %1$s</string>
+
+    <string name="settings">Настройки</string>
+    <string name="language">Язык</string>
+    <string name="language_system">Системный</string>
+    <string name="language_ru">Русский</string>
+    <string name="language_en">English</string>
+
+    <string name="tab_tracks">Треки</string>
+    <string name="tab_video">Видео</string>
+    <string name="tab_artists">Исполнители</string>
+    <string name="tab_albums">Альбомы</string>
+    <string name="search_hint">Поиск треков, плейлистов и артистов</string>
+    <string name="tile_favorites">Избранные</string>
+    <string name="tile_playlists">Плейлисты</string>
+    <string name="tile_recent">Недавние</string>
+    <string name="shuffle_all">В случайном порядке</string>
+    <string name="play_all">Играть всё</string>
+    <string name="sort">Сортировка</string>
+    <string name="sort_title">По названию</string>
+    <string name="sort_artist">По исполнителю</string>
+    <string name="sort_date">Недавно добавленные</string>
+
+    <string name="previous">Назад</string>
+    <string name="next">Вперёд</string>
+    <string name="play">Играть</string>
+    <string name="pause">Пауза</string>
+    <string name="repeat">Повтор</string>
+    <string name="shuffle">Перемешать</string>
+    <string name="back">Назад</string>
+    <string name="close_player">Закрыть плеер</string>
+    <string name="unknown_artist">Неизвестный исполнитель</string>
+    <string name="unknown_album">Неизвестный альбом</string>
+    <string name="menu">Меню</string>
+    <string name="more">Ещё</string>
+
+    <string name="menu_add_playlist">В плейлист</string>
+    <string name="menu_favorite">В избранное</string>
+    <string name="menu_unfavorite">Убрать из избранного</string>
+    <string name="menu_play_next">Играть следующим</string>
+    <string name="menu_remove">Убрать из списка</string>
+    <string name="menu_move_up">Выше</string>
+    <string name="menu_move_down">Ниже</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="create">Создать</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="rename">Переименовать</string>
+    <string name="share">Поделиться</string>
+    <string name="edit">Изменить</string>
+    <string name="import_label">Импорт</string>
+    <string name="your_name">Твоё имя</string>
+
+    <string name="empty_music_title">Музыки пока нет</string>
+    <string name="empty_music_text">Положи mp3-файлы на телефон и открой приложение снова.</string>
+    <string name="empty_video_title">Видео пока нет</string>
+    <string name="empty_video_text">Положи mp4-файлы на телефон и открой приложение снова.</string>
+    <string name="empty_list">Здесь пока пусто</string>
+    <string name="nothing_found">Ничего не найдено</string>
+
+    <string name="perm_title">Доступ к медиа</string>
+    <string name="perm_text">Prism нужен доступ к музыке и видео на телефоне, чтобы собрать твою библиотеку. Файлы никуда не отправляются.</string>
+    <string name="perm_grant">Разрешить доступ</string>
+    <string name="perm_open_settings">Открыть настройки приложения</string>
+
+    <string name="playlists_title">Плейлисты</string>
+    <string name="new_playlist">Новый плейлист</string>
+    <string name="playlist_name">Название плейлиста</string>
+    <string name="smart_added">Недавно добавленные</string>
+    <string name="smart_most">Часто слушаемые</string>
+    <string name="smart_old">Давно не слушал</string>
+    <string name="change_banner">Сменить баннер</string>
+
+    <string name="themes_title">Темы</string>
+    <string name="themes_dark">Тёмные</string>
+    <string name="themes_light">Светлые</string>
+    <string name="themes_mine">Мои темы</string>
+    <string name="theme_new">Новая тема</string>
+    <string name="theme_import">Импорт темы</string>
+    <string name="theme_paste_hint">Вставь сюда текст темы</string>
+    <string name="theme_from_file">Из файла</string>
+    <string name="theme_import_ok">Тема импортирована</string>
+    <string name="theme_import_fail">Не удалось прочитать тему</string>
+    <string name="theme_name">Название темы</string>
+    <string name="theme_is_dark">Тёмная тема</string>
+    <string name="color_background">Фон</string>
+    <string name="color_surface">Поверхность</string>
+    <string name="color_accent">Акцент</string>
+    <string name="color_text">Текст</string>
+    <string name="color_text_secondary">Второй текст</string>
+    <string name="color_glass">Заливка стекла</string>
+    <string name="color_glass_border">Рамка стекла</string>
+
+    <string name="settings_theme_mode">Тема</string>
+    <string name="mode_system">Как в системе</string>
+    <string name="mode_light">Светлая</string>
+    <string name="mode_dark">Тёмная</string>
+    <string name="settings_choose_theme">Выбрать или создать тему</string>
+    <string name="theme_from_art">Цвета из обложки</string>
+    <string name="theme_from_art_sub">Акцентный цвет следует за обложкой трека</string>
+    <string name="settings_playback">Воспроизведение</string>
+    <string name="crossfade">Плавное затухание между треками</string>
+    <string name="crossfade_value">%1$d с</string>
+    <string name="crossfade_off">Выкл</string>
+    <string name="fade_on_pause">Затухание при паузе и старте</string>
+    <string name="settings_perf">Производительность</string>
+    <string name="perf_auto">Авто</string>
+    <string name="perf_eco">Эко</string>
+    <string name="perf_max">Макс</string>
+    <string name="perf_hint">Телефон нагрелся, эффекты уменьшены</string>
+    <string name="settings_backup">Резервная копия</string>
+    <string name="backup_export">Сохранить копию</string>
+    <string name="backup_import">Восстановить</string>
+    <string name="backup_ok">Готово</string>
+    <string name="backup_fail">Не получилось</string>
+
+    <string name="speed">Скорость</string>
+    <string name="sleep_timer">Таймер сна</string>
+    <string name="sleep_off">Выключить таймер</string>
+    <string name="sleep_minutes">%1$d мин</string>
+    <string name="sleep_until">Остановится в %1$s</string>
+    <string name="ab_set_a">Точка A</string>
+    <string name="ab_set_b">Точка B</string>
+    <string name="ab_clear">Сбросить повтор A-B</string>
+    <string name="audio_only">Только звук</string>
+    <string name="audio_only_off">Показать видео</string>
+    <string name="queue">Очередь</string>
+
+    <plurals name="tracks_count">
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+        <item quantity="other">%d трека</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="one">%d видео</item>
+        <item quantity="few">%d видео</item>
+        <item quantity="many">%d видео</item>
+        <item quantity="other">%d видео</item>
+    </plurals>
+</resources>

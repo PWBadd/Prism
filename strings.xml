@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prism</string>
+    <string name="made_by">Made by PWBad\'s</string>
+    <string name="credits_title">Credits</string>
+    <string name="credits_author">Author: %1$s</string>
+    <string name="credits_assistant">Planning: %1$s</string>
+    <string name="credits_coder">Code: %1$s</string>
+    <string name="telegram_channel">Telegram channel</string>
+    <string name="version">Version %1$s</string>
+
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="language_system">System</string>
+    <string name="language_ru">Русский</string>
+    <string name="language_en">English</string>
+
+    <string name="tab_tracks">Tracks</string>
+    <string name="tab_video">Video</string>
+    <string name="tab_artists">Artists</string>
+    <string name="tab_albums">Albums</string>
+    <string name="search_hint">Search tracks, playlists and artists</string>
+    <string name="tile_favorites">Favorites</string>
+    <string name="tile_playlists">Playlists</string>
+    <string name="tile_recent">Recent</string>
+    <string name="shuffle_all">Shuffle</string>
+    <string name="play_all">Play all</string>
+    <string name="sort">Sort</string>
+    <string name="sort_title">By title</string>
+    <string name="sort_artist">By artist</string>
+    <string name="sort_date">Recently added</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="repeat">Repeat</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="back">Back</string>
+    <string name="close_player">Close player</string>
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="unknown_album">Unknown album</string>
+    <string name="menu">Menu</string>
+    <string name="more">More</string>
+
+    <string name="menu_add_playlist">Add to playlist</string>
+    <string name="menu_favorite">Add to favorites</string>
+    <string name="menu_unfavorite">Remove from favorites</string>
+    <string name="menu_play_next">Play next</string>
+    <string name="menu_remove">Remove from list</string>
+    <string name="menu_move_up">Move up</string>
+    <string name="menu_move_down">Move down</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="edit">Edit</string>
+    <string name="import_label">Import</string>
+    <string name="your_name">Your name</string>
+
+    <string name="empty_music_title">No music yet</string>
+    <string name="empty_music_text">Put some mp3 files on your phone and open the app again.</string>
+    <string name="empty_video_title">No videos yet</string>
+    <string name="empty_video_text">Put some mp4 files on your phone and open the app again.</string>
+    <string name="empty_list">Nothing here yet</string>
+    <string name="nothing_found">Nothing found</string>
+
+    <string name="perm_title">Access to your media</string>
+    <string name="perm_text">Prism needs access to music and video on your phone to build your library. Your files never leave the device.</string>
+    <string name="perm_grant">Allow access</string>
+    <string name="perm_open_settings">Open app settings</string>
+
+    <string name="playlists_title">Playlists</string>
+    <string name="new_playlist">New playlist</string>
+    <string name="playlist_name">Playlist name</string>
+    <string name="smart_added">Recently added</string>
+    <string name="smart_most">Most played</string>
+    <string name="smart_old">Not played for a while</string>
+    <string name="change_banner">Change banner</string>
+
+    <string name="themes_title">Themes</string>
+    <string name="themes_dark">Dark</string>
+    <string name="themes_light">Light</string>
+    <string name="themes_mine">My themes</string>
+    <string name="theme_new">New theme</string>
+    <string name="theme_import">Import theme</string>
+    <string name="theme_paste_hint">Paste theme text here</string>
+    <string name="theme_from_file">From file</string>
+    <string name="theme_import_ok">Theme imported</string>
+    <string name="theme_import_fail">Could not read the theme</string>
+    <string name="theme_name">Theme name</string>
+    <string name="theme_is_dark">Dark theme</string>
+    <string name="color_background">Background</string>
+    <string name="color_surface">Surface</string>
+    <string name="color_accent">Accent</string>
+    <string name="color_text">Text</string>
+    <string name="color_text_secondary">Secondary text</string>
+    <string name="color_glass">Glass tint</string>
+    <string name="color_glass_border">Glass border</string>
+
+    <string name="settings_theme_mode">Theme</string>
+    <string name="mode_system">System</string>
+    <string name="mode_light">Light</string>
+    <string name="mode_dark">Dark</string>
+    <string name="settings_choose_theme">Choose or create a theme</string>
+    <string name="theme_from_art">Colors from album art</string>
+    <string name="theme_from_art_sub">The accent color follows the current cover</string>
+    <string name="settings_playback">Playback</string>
+    <string name="crossfade">Smooth fade between tracks</string>
+    <string name="crossfade_value">%1$d s</string>
+    <string name="crossfade_off">Off</string>
+    <string name="fade_on_pause">Fade on pause and resume</string>
+    <string name="settings_perf">Performance</string>
+    <string name="perf_auto">Auto</string>
+    <string name="perf_eco">Eco</string>
+    <string name="perf_max">Max</string>
+    <string name="perf_hint">Device is warm, effects reduced</string>
+    <string name="settings_backup">Backup</string>
+    <string name="backup_export">Save backup</string>
+    <string name="backup_import">Restore backup</string>
+    <string name="backup_ok">Done</string>
+    <string name="backup_fail">Failed</string>
+
+    <string name="speed">Speed</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="sleep_off">Turn off timer</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_until">Stops at %1$s</string>
+    <string name="ab_set_a">Set point A</string>
+    <string name="ab_set_b">Set point B</string>
+    <string name="ab_clear">Clear A-B repeat</string>
+    <string name="audio_only">Audio only</string>
+    <string name="audio_only_off">Show video</string>
+    <string name="queue">Queue</string>
+
+    <plurals name="tracks_count">
+        <item quantity="one">%d track</item>
+        <item quantity="other">%d tracks</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videos</item>
+    </plurals>
+</resources>
